@@ -1,0 +1,45 @@
+# --------------------
+# Build-Output und temporäre Dateien
+# --------------------
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+
+# --------------------
+# User-spezifische Dateien (IDE, VS, Rider)
+# --------------------
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+*.csproj.user
+
+# --------------------
+# SQLite-Datenbanken
+# --------------------
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-journal
+
+# --------------------
+# Weitere mögliche temporäre Dateien
+# --------------------
+*.bak
+*.tmp
+*.old
+
+# --------------------
+# Optional: Rider und ReSharper
+# --------------------
+.ReSharper*/
+*_Resharper.*
+resharper-host/
