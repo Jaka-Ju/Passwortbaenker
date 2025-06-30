@@ -1,20 +1,24 @@
 # Der Passwortbaenker
 
 # Technologien 
-SQlite und C# 
+SQlite und C#   <br>
 
-# Soll-Anforderungen
--Passwoerter, Benutzernamen, Organisation in einer SQL-Datenbank speichern und abrufbar machen
--jegliche Informationen werden vom Programm erst verschluesselt und beim Lesen Entschluesselt 
+# Soll-Anforderungen:
 
--Login Page mit Admin Passwort zur Entschluesselung
--Das Passwort soll beim ersten Einloggen durch eine Hashfunktion geschickt und in der Datenbank gespeichert werden
+# Daten-Page
+-Passwoerter, Benutzernamen, Organisation in einer SQL-Datenbank speichern und abrufbar machen  <br>
+-jegliche Informationen werden vom Programm erst verschluesselt und beim Lesen Entschluesselt<br>   
 
--Lesen, Schreiben, Aendern als eigener Dialog
+# Login-Page
+-Login-Page mit Admin Passwort zur Entschluesselung  <br>
+-Das Passwort soll beim ersten Einloggen durch eine Hashfunktion geschickt und in der Datenbank gespeichert werden <br> 
 
-# Tag 1
--Vorbereitungen
--Einrichtung von SQlite
+# Aenderungs-Page
+-Lesen, Schreiben, Aendern als eigener Dialog <br>  
+
+# Tag 1  
+-Vorbereitungen  <br>
+-Einrichtung von SQlite <br>
 
 # Tag 2
--Erstellung des Datenbankschemas
+-Erstellung des Datenbankschemas <br>
